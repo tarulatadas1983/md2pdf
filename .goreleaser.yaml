@@ -2,6 +2,7 @@
 # This is an example .goreleaser.yml file with some sensible defaults.
 # Make sure to check the documentation at https://goreleaser.com
 project_name: mdtopdf
+version: 2
 before:
   hooks:
     - git submodule update --remote  --init
