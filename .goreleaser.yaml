@@ -20,6 +20,8 @@ builds:
       - darwin
       - freebsd
       - netbsd
+      - android 
+      - windows
     goarch:
       - amd64
       - arm64
